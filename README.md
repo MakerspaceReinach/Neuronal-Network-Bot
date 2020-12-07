@@ -8,6 +8,6 @@ Das Coding findet ihr in diesem Projekt.
 
 Weitere Erklährungen sind hier zu finden: https://playground.boxtec.ch/doku.php/projekte/nn_bot
 
-Die ganze Präsentation ist hier: (neuronalnetwork.pdf)
+Die ganze Präsentation ist hier: [neuronalnetwork.pdf](neuronalnetwork.pdf)
 
 Viel Spass
